@@ -1,13 +1,6 @@
-Trash_ICRA19 Dataset 
-
-Michael Fulton, Jungseok Hong, Junaed Sattar
-Related Paper: https://ieeexplore.ieee.org/abstract/document/8793975
-
-IF USING CITE THE ABOVE PAPER.
-
-
-For questions, issues, etc, contact: irvlab@umn.edu
-----------------------------------------------------------------
+Trash_ICRA19 Dataset
+====================================
+** Related Paper: https://ieeexplore.ieee.org/abstract/document/8793975
 
 Contained in this folder is the training, test, and validation data of the trash_ICRA19 dataset, along with a few videos for testing.
 
