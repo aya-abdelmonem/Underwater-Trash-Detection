@@ -1,6 +1,7 @@
 
-New-Plastic-Test - v5 final-test-dataset
+Deep Trash Dataset
 ==============================
+**Dataset link: https://drive.google.com/drive/folders/1fsS_u2QpbRGynYkP6-D6cfvq8r0hpjXI?usp=sharing
 
 This dataset was exported via roboflow.ai on April 16, 2021 at 7:37 PM GMT
 
